@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,210 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 15
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 16
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 17
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 18
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 19
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 20
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 21
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 22
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 23
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 24
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 25
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 26
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 27
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 28
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 29
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 30
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 31
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 32
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 33
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 34
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 35
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 36
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 37
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 38
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 39
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 40
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 41
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 42
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +223,274 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 1
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 2
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 3
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 4
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 5
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 6
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 7
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 8
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 9
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 10
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 11
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 12
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 13
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 14
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 15
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 16
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 17
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 18
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 19
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 20
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 21
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 22
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 23
+    },
+    {
+      "usersName": "Byron",
+      "usersEmail": "dycjh@example.com",
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57
+    },
+    {
+      "id": 58
+    },
+    {
+      "id": 59
+    },
+    {
+      "id": 60
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62
+    },
+    {
+      "id": 63
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 65
+    },
+    {
+      "id": 66
+    },
+    {
+      "id": 67
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
